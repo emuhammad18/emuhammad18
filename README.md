@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
+<a href="#"><img src="./svgfile.svg"></a>
 
 - 📫 How to reach me **wwwergashevmuxammad18@gmail.com**
 
